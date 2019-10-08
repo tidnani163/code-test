@@ -22,4 +22,10 @@
 	  <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.0.0-rc2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="AddressBook">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
