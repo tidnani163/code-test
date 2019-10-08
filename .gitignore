@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AddressBook/v16
+/AddressBook/bin/Debug/netcoreapp3.0
+/.vs/AddressBook/config
+/AddressBook/obj
+/AddressBook/AddressBook.csproj.user
+/AddressBook.Tests/bin/Debug/netcoreapp3.0
+/AddressBook.Tests/obj
